@@ -88,7 +88,7 @@ class _PersegiPageState extends State<PersegiPage> {
                             TextField(
                               keyboardType: TextInputType.number,
                               decoration: InputDecoration(
-                                  labelText: "sisi",
+                                  // labelText: "sisi",
                                   border: OutlineInputBorder(
                                       borderRadius: BorderRadius.circular(10))),
                               controller: sisi,
